@@ -1,0 +1,26 @@
+{
+  "name": "knights-travails",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joeysantia/knights-travails.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joeysantia/knights-travails/issues"
+  },
+  "homepage": "https://github.com/joeysantia/knights-travails#readme",
+  "devDependencies": {
+    "@babel/core": "^7.19.6",
+    "@babel/preset-env": "^7.19.4",
+    "babel-jest": "^29.2.2",
+    "jest": "^29.2.2"
+  }
+}
