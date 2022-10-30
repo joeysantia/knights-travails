@@ -133,7 +133,4 @@ class Knight {
   }
 }
 
-let test = new Game([0, 0]);
-test.updateStart([3,3])
-let test2 = new Game([3,3])
-console.log(test.knightMoves([7, 7]));
+export { Knight, Game }
